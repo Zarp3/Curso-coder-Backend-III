@@ -61,7 +61,3 @@ Body ejemplo:
 * DAO en memoria (preparado para migrar a MongoDB)
 
 ---
-
-## 📁 Autor
-
-Proyecto realizado como pre-entrega de backend.
